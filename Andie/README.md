@@ -73,6 +73,3 @@ Pick a colour feature. You see in the toolbar that there is a colour indicator t
 4. **Save Clicked Colour**: Click a spot on the image and ANDIE will get the corresponding colour in the pixel and save it for draw functions.
 5. **Colour Palatte**: Open up a colour pallate table which you can choose which colour to draw with without a source. *Note*. Table will always be presented in english.
 
-## Docs
-
-<https://cosc202-owo.cspages.otago.ac.nz/cosc-202-owo/docs/cosc202/andie/package-summary.html>
