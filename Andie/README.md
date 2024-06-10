@@ -1,12 +1,6 @@
-# Team OWO ANDIE Project
-
 # Credits
 
-* **Ben** - Image rotation, Image flip, Mouse selection of rectangular regions, Crop selection, Done some drawing
-* **Daniel** - Brightness adjustment, Contrast adjustment, Exception handling, Macros, CI, Show us something, Done some drawing
-* **Jayden** - Sharpen Filter, Gaussian blur filter, Extended Filters, Done some drawing
-* **Maka** - Image Export, Median filter, Negative filters, Emboss, Edge detections, Done some work on Extended filters
-* **Kevin** - Multilingual support, Keyboard shortcuts, Toolbar, Done some drawing
+* **Kevin Albert**
 
 # Testing
 
